@@ -1,2 +1,3 @@
 # hello-werld
-simple repositoy
+simple repositoy for the idiot me.
+I want to study LaTeX, but I have no gitts and time. Oh my god...
